@@ -150,7 +150,7 @@ All models can be downloaded from the [releases page](https://github.com/fizyr/k
 
 ### MS COCO
 
-Results using the `cocoapi` are shown below (note: according to the paper, this configuration should achieve a mAP of 0.357).
+Validation results using the `cocoapi` are shown below (note: according to the paper, the result with test-dev should achieve a mAP of 0.357).
 
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.350
